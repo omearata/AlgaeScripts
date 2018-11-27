@@ -1,4 +1,4 @@
 ## Algae Scripts
 
 original document of scripts used for building percent cover figures for my dissertation
-![] (https://raw.githubusercontent.com/Smithsonian/SERC_biogeochem/master/images/SI_logo.png)
+![](https://github.com/omearata/AlgaeScripts/blob/master/si_ERC_rgb_horizontal_color.png)
